@@ -13,20 +13,5 @@ A modern, sleek, and fully responsive coffee shop website designed to provide a 
 * **CSS3:** Flexbox, Grid layouts, custom animations, and media queries.
 * **JavaScript (ES6+):** Interactive menus, scroll effects, and dynamic UI logic.
 
-## 🚀 Getting Started
-
-### Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd YOUR-REPO-NAME
-   ```
-3. Open the project:
-   * Simply double-click the `index.html` file to view it in your browser.
-   * *Alternatively*, run it using the **Live Server** extension in Visual Studio Code.
-
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
